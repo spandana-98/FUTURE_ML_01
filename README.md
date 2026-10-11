@@ -40,6 +40,14 @@ The goal is to identify sales trends, understand business performance, and help 
 * `Sales_Demand_Forecasting (1).ipynb` — Python notebook containing the analysis and forecasting code.
 * `Sales_Demand_Forecasting_Outputs.zip` — ZIP file containing the cleaned dataset, monthly sales data, forecast results, model evaluation, and forecast visualization.
 
+## Project Files
+
+1. **README.md** — Contains the project overview, objectives, technologies, methodology, and business benefits.
+
+2. **Sales_Demand_Forecasting (1).ipynb** — Google Colab notebook containing Python code for data cleaning, monthly sales analysis, Linear Regression model training, model evaluation, and future sales forecasting.
+
+3. **Sales_Demand_Forecasting_Outputs.zip** — Contains the cleaned sales dataset, monthly sales data, three-month sales forecast, model evaluation metrics, and forecast visualization.
+
 ## Model Evaluation
 
 The model is evaluated using:
